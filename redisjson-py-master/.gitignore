@@ -1,0 +1,13 @@
+*
+!/**/
+!.gitignore
+!requirements.txt
+!.travis.yml
+!**/*.py
+!**/*.md
+!.circleci/**
+
+.env
+.vscode
+
+*.pyc
